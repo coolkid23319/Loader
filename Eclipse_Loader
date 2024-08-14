@@ -1,2 +1,2 @@
-script_key= getgenv().Eclipse.Target.Normal.scriptKey
+script_key= getgenv().Eclipse.Whitelist.License
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/e9c3394fad5d5bf38d6f543e26c8adbb.lua"))()
